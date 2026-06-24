@@ -1,0 +1,62 @@
+# Customer Churn Analytics Dashboard
+
+## Project Overview
+
+This project analyzes telecom customer churn using Python and Power BI.
+
+The goal is to identify high-risk customer segments and provide business recommendations to improve retention.
+
+---
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Power BI
+- DAX
+- Power Query
+
+---
+
+## Business Questions
+
+- Which customers are most likely to churn?
+- Which contract types have the highest churn?
+- Which payment methods contribute most to churn?
+- Which internet services are associated with churn?
+
+---
+
+## Key Findings
+
+- Overall Churn Rate: 26.6%
+- Fiber Optic customers have highest churn (41.9%)
+- Electronic Check users have highest churn (45.3%)
+- Most churn occurs within the first year
+- Month-to-Month contracts contribute the highest churn
+
+---
+
+## Dashboard Pages
+
+### Executive Overview
+
+KPI summary and churn trends.
+
+### Customer Risk Analysis
+
+Interactive analysis by service, tenure and payment method.
+
+### AI Insights
+
+Root-cause analysis using Power BI Decomposition Tree.
+
+---
+
+## Business Recommendations
+
+- Promote annual contracts
+- Improve Fiber Optic service quality
+- Encourage auto-pay adoption
+- Improve first-year customer retention
